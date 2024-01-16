@@ -1,0 +1,7 @@
+[credentials]
+
+bot_token = "**redacted**"
+username = "**redacted**"
+password = "**redacted**"
+chatid = "**redacted**"
+base_url = "https://portal.vmedulife.com/public/auth/#/login/**redacted**"

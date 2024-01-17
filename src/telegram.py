@@ -20,7 +20,7 @@ for div in soup.find_all('div'):
     parameters = {
         "chat_id": config['credentials']['chatid'],
         "photo": link,
-        "caption": "Happy Birthday " + name + "🎂"
+        "caption": "🎉  Happy Birthday, " + name + "! 🎂"
     }
 
     # Append the parameters to the list
